@@ -198,5 +198,6 @@ p.copyright {
 }
 
 .banner.movements-ext {
-  padding-top: 0;
+  background: #6289ff;
+  color: white;
 }
